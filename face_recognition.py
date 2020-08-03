@@ -1,3 +1,12 @@
+#
+# Face Recognition authorisation
+# An OpenCV based Local Binary Pattern Histogram (LBPH) face Recognition
+# authorisation system with arduino support for door locks.
+#
+# created by Rajas Chavadekar on 03.08.2020, Pune, India
+# github.com/rvcgeeks    linkedin.com/in/rvchavadekar
+#
+
 
 import cv2, os
 from sys import argv
